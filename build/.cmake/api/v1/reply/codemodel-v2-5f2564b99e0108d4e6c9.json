@@ -7,7 +7,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "OpenMP::OpenMP_CXX::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-OpenMP__OpenMP_CXX-8fd680d3b40a710e7af4.json",
+					"jsonFile" : "target-OpenMP__OpenMP_CXX-Debug-8fd680d3b40a710e7af4.json",
 					"name" : "OpenMP::OpenMP_CXX",
 					"projectIndex" : 0
 				}
@@ -20,7 +20,7 @@
 						0
 					],
 					"build" : ".",
-					"jsonFile" : "directory-.-f6f22219c74102c3da70.json",
+					"jsonFile" : "directory-.-Debug-f6f22219c74102c3da70.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.10"
@@ -33,7 +33,7 @@
 					]
 				}
 			],
-			"name" : "",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -57,7 +57,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "hpc_ode_sde::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-hpc_ode_sde-48caf637f22ea3a5388b.json",
+					"jsonFile" : "target-hpc_ode_sde-Debug-ff41096db93aab2f4388.json",
 					"name" : "hpc_ode_sde",
 					"projectIndex" : 0
 				}

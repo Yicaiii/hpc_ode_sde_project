@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = @CMakeFiles/hpc_ode_sde.dir/includes_CXX.rsp
 
-CXX_FLAGS = -std=gnu++17 -fopenmp
+CXX_FLAGS = -g -std=gnu++17 -fopenmp
 

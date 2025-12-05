@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/crellamaybe/Desktop/hpc_ode_sde_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/hpc_ode_sde.dir/includes_CXX.rsp -g -std=gnu++17 -fopenmp -o CMakeFiles\\hpc_ode_sde.dir\\src\\main.cpp.obj -c C:\\Users\\crellamaybe\\Desktop\\hpc_ode_sde_project\\src\\main.cpp",
+  "file": "C:/Users/crellamaybe/Desktop/hpc_ode_sde_project/src/main.cpp",
+  "output": "CMakeFiles/hpc_ode_sde.dir/src/main.cpp.obj"
+}
+]
