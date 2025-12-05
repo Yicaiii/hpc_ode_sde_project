@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenMP::OpenMP_CXX::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenMP__OpenMP_CXX-8fd680d3b40a710e7af4.json",
+					"name" : "OpenMP::OpenMP_CXX",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-f6f22219c74102c3da70.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HPC_ODE_SDE",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hpc_ode_sde::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hpc_ode_sde-48caf637f22ea3a5388b.json",
+					"name" : "hpc_ode_sde",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/crellamaybe/Desktop/hpc_ode_sde_project/build",
+		"source" : "C:/Users/crellamaybe/Desktop/hpc_ode_sde_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}
